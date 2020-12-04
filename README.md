@@ -1,3 +1,5 @@
+This project is hosted on Heroku, you can view it  [here](https://crwn-clth-proj.herokuapp.com/).
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
